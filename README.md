@@ -1,0 +1,1 @@
+I have begun working my way through [Ruby Programming](http://en.wikibooks.org/wiki/Ruby_Programming) in an effort to learn the basics of Ruby.  This repository contains *very simple* example code dealing with the various topics I've encountered in the book.
